@@ -1,0 +1,58 @@
+{
+    "basics": {
+      "name": "NANTHAKUMAR S",
+      "picture": "",
+      "email": "nantha1431@gmail.com",
+      "phone": "8056169987",
+      "degree": "BCA",
+      "location": {
+        "city": "Chennnai",
+        "countryCode": "India",
+        "region": "KODUNGAIYUR"
+      },
+      
+    "work": [
+      {
+        "company": "TRANSPORT ",
+        "position": "CLERK",
+        
+        "highlights": [
+          "I have learnt a lot of frontend and backend skillss"
+        ]
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "VELS UNIVERSITY",
+        "area": "BCA",
+        "studyType": "CAMPUS",
+        "startDate": "01 AUG 2012",
+        "endDate": "22 MAy 2015",
+        
+        
+        
+      }
+    ],
+    "skills": [
+      {
+        "name": "A category of job skills (e.g. 'Programming Languages')",
+        "level": ""
+       
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "NORMAL"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Sports",
+        "keywords": [
+          "'Cricket', 'Football', 'Golf'"
+        ]
+      }
+    ]
+}
